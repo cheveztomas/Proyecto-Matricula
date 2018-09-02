@@ -21,6 +21,7 @@ namespace ProyectoMatriculas
         {
             frm_Estudiantes FormEstudiantes = new frm_Estudiantes();
             FormEstudiantes.ShowDialog();
+            //Hola.
         }
 
 
